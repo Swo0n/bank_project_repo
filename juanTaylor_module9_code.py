@@ -1,4 +1,4 @@
-#Juan Taylor 04/24/2023 Module 9 assignment
+#Juan Taylor 04/24/2023
 #Program uses classes to create a banking program.
 import random
 #complete tasks: will need to run the program twice. Once with the account balance of $200
